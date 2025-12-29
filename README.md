@@ -25,7 +25,7 @@
 
 ### 开源项目
 
-暂无 qaq
+vue-chrome-extension-template:轻量级浏览器插件开发模板，⽀持热更新、侧边栏、弹窗等功能 github:https://github.com/Simonmie/vue-chrome-extension-template
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust) -->
 
