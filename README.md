@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://juejin.cn/user/2768993424260451"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金作者，发表了 10+ 篇技术文章，3000+阅读，3 万+展示。
+- <a href="https://juejin.cn/user/2768993424260451"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金作者，发表了 10+ 篇技术文章，5000+阅读，6 万+展示。
 
 ### **技术栈:**
 
@@ -26,6 +26,7 @@
 ### 开源项目
 
 vue-chrome-extension-template:轻量级浏览器插件开发模板，⽀持热更新、侧边栏、弹窗等功能 github:https://github.com/Simonmie/vue-chrome-extension-template
+基于chrome插件的浏览器agent：采用 pnpm monorepo 架构，设计双服务模式（Agent Server + MCP Server），基于 ReAct (Reasoning + Acting) 模式的 AI Agent 编排器，：https://gitee.com/Singularity-maxkim/mcp-browser-analyzer
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust) -->
 
