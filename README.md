@@ -27,7 +27,7 @@
 
 vue-chrome-extension-template:轻量级浏览器插件开发模板，⽀持热更新、侧边栏、弹窗等功能 github:https://github.com/Simonmie/vue-chrome-extension-template
 <br><br>
-基于chrome插件的浏览器agent：采用 pnpm monorepo 架构，设计双服务模式（Agent Server + MCP Server），基于 ReAct (Reasoning + Acting) 模式的 AI Agent 编排器，：https://gitee.com/Singularity-maxkim/mcp-browser-analyzer
+基于chrome插件的浏览器agent：采用 pnpm monorepo 架构，设计双服务模式（Agent Server + MCP Server），基于 ReAct (Reasoning + Acting) 模式的 AI Agent 编排器，gitee：https://gitee.com/Singularity-maxkim/mcp-browser-analyzer
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust) -->
 
